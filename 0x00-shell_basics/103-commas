@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -maname [0-9] */n
+ls -xamp
